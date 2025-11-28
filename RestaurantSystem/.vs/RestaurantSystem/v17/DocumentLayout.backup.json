@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|c:\\users\\folle\\source\\repos\\restaurantsystem\\restaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|c:\\users\\folle\\source\\repos\\restaurantsystem\\restaurantsystem\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|c:\\users\\folle\\source\\repos\\restaurantsystem\\restaurantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|c:\\users\\folle\\source\\repos\\restaurantsystem\\restaurantsystem\\ipriced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\ipriced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|c:\\users\\folle\\source\\repos\\restaurantsystem\\restaurantsystem\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|c:\\users\\folle\\source\\repos\\restaurantsystem\\restaurantsystem\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|c:\\users\\folle\\source\\repos\\restaurantsystem\\restaurantsystem\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|c:\\users\\folle\\source\\repos\\restaurantsystem\\restaurantsystem\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9BC2B6-1215-4C41-9C2A-05A3721A6FA6}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Restaurant.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Restaurant.cs",
+              "RelativeToolTip": "RestaurantSystem\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:58:40.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\Order.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Order.cs",
+              "RelativeToolTip": "RestaurantSystem\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:58:31.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Drink.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\Drink.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Drink.cs",
+              "RelativeToolTip": "RestaurantSystem\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:58:20.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Dish.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\Dish.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Dish.cs",
+              "RelativeToolTip": "RestaurantSystem\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:58:09.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantSystem\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:57:57.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\OrderStatus.cs",
+              "RelativeToolTip": "RestaurantSystem\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:57:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPriced.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\IPriced.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\IPriced.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\IPriced.cs",
+              "RelativeToolTip": "RestaurantSystem\\IPriced.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:57:28.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\RestaurantSystem\\RestaurantSystem\\Program.cs",
+              "RelativeToolTip": "RestaurantSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:57:15.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
