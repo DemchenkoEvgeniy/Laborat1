@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\folle\\source\\repos\\SmartHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem.tests\\airconditionertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\airconditionertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\smarthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\smarthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\motionsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\motionsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem.tests\\smarthomecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\smarthomecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem.tests\\motionsensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\motionsensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem.tests\\lighttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\lighttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem.tests\\interfacetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\interfacetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem.tests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem.tests\\devicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\devicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem.tests\\coffeemachinetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19045A71-1ED0-49FB-8279-F5BD296660E9}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\coffeemachinetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\folle\\source\\repos\\smarthome\\smarthomesystem\\ienergyconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3269CA-26BB-4746-BBE5-3AF68FBA5B99}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\ienergyconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirConditionerTests.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\AirConditionerTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\AirConditionerTests.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\AirConditionerTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\AirConditionerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:34:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LightTests.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\LightTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\LightTests.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\LightTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\LightTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwGgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:37:33.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MotionSensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\MotionSensorTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\MotionSensorTests.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\MotionSensorTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\MotionSensorTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:39:26.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartHomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAQwKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:39:49.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AirConditioner.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\AirConditioner.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\AirConditioner.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\AirConditioner.cs",
+              "RelativeToolTip": "SmartHomeSystem\\AirConditioner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:20:01.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISwitchable.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\ISwitchable.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\ISwitchable.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\ISwitchable.cs",
+              "RelativeToolTip": "SmartHomeSystem\\ISwitchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:19:24.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\Light.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\Light.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\Light.cs",
+              "RelativeToolTip": "SmartHomeSystem\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:19:52.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotionSensor.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\MotionSensor.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\MotionSensor.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\MotionSensor.cs",
+              "RelativeToolTip": "SmartHomeSystem\\MotionSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:20:16.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\Program.cs",
+              "RelativeToolTip": "SmartHomeSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:19:02.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\SmartHomeController.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\SmartHomeController.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\SmartHomeController.cs",
+              "RelativeToolTip": "SmartHomeSystem\\SmartHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:20:23.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterfaceTests.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\InterfaceTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\InterfaceTests.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\InterfaceTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\InterfaceTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:39:15.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CoffeeMachine.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\CoffeeMachine.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\CoffeeMachine.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\CoffeeMachine.cs",
+              "RelativeToolTip": "SmartHomeSystem\\CoffeeMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:20:08.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CoffeeMachineTests.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\CoffeeMachineTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\CoffeeMachineTests.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\CoffeeMachineTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\CoffeeMachineTests.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:27:16.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\IntegrationTests.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\IntegrationTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\IntegrationTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:38:53.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeviceTests.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\DeviceTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\DeviceTests.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\DeviceTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\DeviceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:39:02.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\Device.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\Device.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\Device.cs",
+              "RelativeToolTip": "SmartHomeSystem\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:19:43.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEnergyConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\IEnergyConsumer.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\IEnergyConsumer.cs",
+              "ToolTip": "C:\\Users\\folle\\source\\repos\\SmartHome\\SmartHomeSystem\\IEnergyConsumer.cs",
+              "RelativeToolTip": "SmartHomeSystem\\IEnergyConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:19:31.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
